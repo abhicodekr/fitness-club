@@ -1,8 +1,7 @@
 
 CREDITS
 
-Fitness Theme
-http://www.templatemo.com/tm-487-fitness
+Fitness website making with the help of these website.
 
 Bootstrap
 http://getbootstrap.com/
